@@ -178,8 +178,4 @@ public class ChessRook {
         SwingUtilities.invokeLater(ChessRook::new);
     }
 }
-<<<<<<< HEAD
 //Updated
-=======
-//Updated Files
->>>>>>> master
