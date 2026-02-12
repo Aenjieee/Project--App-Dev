@@ -1,4 +1,4 @@
- # Chess Rook Movement Simulator
+# Chess Rook Movement Simulator
 The **Chess Rook Movement Simulator** is an interactive application that simulates the behavior and movements of a rook chess piece on an 8x8 chessboard. Designed for learning and demonstration purposes, it includes visual feedback, sound effects, and basic collision detection. This application is built using Java Swing and Apache libraries in NetBeans IDE.
 
 ---
